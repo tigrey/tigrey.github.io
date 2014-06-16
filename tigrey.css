@@ -3,3 +3,7 @@ background-color: #3e3e40; font-family: Arial, sanserif; text-align:center; }
 .tg td { padding:8px 8px; }
 h4     { font-family: helvetica, sans-serif; font-size:150%; color:#a9a9a9; }
 h5     { font-family: helvetica, sans-serif; font-size:80%; color:#a9a9a9; }
+a:link { color:#a9a9a9; text-decoration: none; }
+a:visited { color:#a9a9a9; text-decoration: none; }
+a:hover { color:#bfbfbf; text-decoration: none; }
+a:active { color:#a9a9a9; text-decoration: none; }
